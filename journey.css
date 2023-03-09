@@ -24,7 +24,7 @@
     width :120px;
     cursor: pointer;
     color: white;
-    font-family: 'Metrophobic';
+    font-family: 'Metrophobic',sans-serif;
     font-size: 40px;
     
 }
@@ -68,17 +68,13 @@
 p{
     color: white;
     font-size:xx-large;
-    font-family: 'Metrophobic';
+    font-family: 'Metrophobic',sans-serif;
     
 }
-h4{
-    text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans ', Geneva, Verdana, sans-serif;
-    color:white;
-}
+
 #colored{
     color: #00e5ff;
-    font-family: 'Metrophobic';
+    font-family: 'Metrophobic',sans-serif;
 }
 .button{
     
