@@ -44,6 +44,7 @@ input
     text-align: center;
     font-size: medium;
     color:white;
+    font-family: 'Metrophobic',sans-serif;
     
     
 }
@@ -76,21 +77,15 @@ p{
 }
 #submitspan{
     margin-left: 27%;
+    margin-top: 6%;
 }
 ::placeholder{
     color:rgba(255, 255, 255, 0.774);
     
 }
-.heading{
-    font-family: 'Metrophobic',sans-serif;
-    
-}
+
 .inputs span i{
     color:rgb(84, 255, 158);
     margin-left: 150px;
     font-weight: bolder;
-}
-#submitspan{
-    margin-top: 6%;
-
 }
